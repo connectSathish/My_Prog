@@ -415,3 +415,16 @@ Number.parseInt()     	Converts a string to a whole number
 
 
 */
+
+
+
+/*
+ git add .
+
+ git commit -m ""
+
+ git push 
+
+
+
+*/
